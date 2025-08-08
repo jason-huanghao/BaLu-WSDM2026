@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>
 <a href="https://econml.azurewebsites.net/">
 <img src="balu.png" width="80px" align="left" style="margin-right: 10px;", alt="econml-logo"> 
@@ -6,6 +6,9 @@
 </h1>
 
 BaLu is a Framework for Causal Inference over Knowledge Graphs under Data Incompleteness and Interference Assumption using Python.
+
+## Supplementary Material
+Check the `Supplementary.pdf`.
 
 ## Source Code
 The source code of **BaLu** is in the folder: `BaLu_Plus`;
@@ -39,6 +42,5 @@ All experimental results are stored in the two folders: `results/results_balu_tu
 3. The visual presentation corresponding to Figure 4 in the paper can be found in [results/step 4: visualize_balu_tuning_beta.ipynb](https://anonymous.4open.science/r/BaLu-E932/results/step%204:%20visualize_balu_tuning_beta.ipynb), [step 4: visualize_balu_tuning_gamma.ipynb](https://anonymous.4open.science/r/BaLu-E932/results/step%204:%20visualize_balu_tuning_gamma.ipynb), and [step 4: visualize_balu_tuning_eta.ipynb](https://anonymous.4open.science/r/BaLu-E932/results/step%204:%20visualize_balu_tuning_eta.ipynb). 
 
 4. We also tested (1) different choice of L and K; and (2) different convolutional layers, the visual presentation can be found in [results/step 1 visualize_balu_results_L_K_Layer.ipynb](https://anonymous.4open.science/r/BaLu-E932/results/step%201%20visualize_balu_results_L_K_Layer.ipynb) and [results/step 2: visualize_balu_tuning_GNN_choose.ipynb](https://anonymous.4open.science/r/BaLu-E932/results/step%202:%20visualize_balu_tuning_GNN_choose.ipynb), where the `BaLu_GRAPE`, `BaLu_IGMC`, and `GRAPE` represent the different variants of our methods: **BaLu, BaLu (-edge), BaLu(-rel)**, respectively.
-=======
-# BaLu-2026
->>>>>>> d382728cd545a7caeaddf5a55b7da37fb9f047a2
+
+
