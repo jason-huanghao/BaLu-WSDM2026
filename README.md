@@ -44,7 +44,7 @@ Existing methods often assume fully observed data or fail to model inter-unit de
 2.  **Treatment Effect Estimation:** Modeled as a node prediction task that accounts for interference through relational message passing.
 
 <div align="center">
-  <img src="running_exp.pdf" alt="BaLu Framework Architecture" width="95%">
+  <img src="running_exp.png" alt="BaLu Framework Architecture" width="95%">
   <br>
   <em>Figure: The BaLu Framework Architecture (Imputation + Causal Estimation).</em>
 </div>
@@ -53,7 +53,7 @@ Existing methods often assume fully observed data or fail to model inter-unit de
 As shown in the motivating example below, excluding users with missing attributes (e.g., standard "complete-case analysis") leads to biased populations and neglected interference paths. BaLu restores these connections to provide robust Average Treatment Effect (ATE) and Individual Treatment Effect (ITE) estimates.
 
 <div align="center">
-  <img src="motivating.pdf" alt="Motivating Example" width="60%">
+  <img src="motivating.png" alt="Motivating Example" width="60%">
   <br>
   <em>Figure: Imputation improves treatment effect estimation by restoring connections under interference.</em>
 </div>
