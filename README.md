@@ -28,6 +28,7 @@
     <a href="#-overview">Overview</a> •
     <a href="#-repository-structure">Structure</a> •
     <a href="#-datasets">Datasets</a> •
+    <a href="#-results-preview">Results</a> •
     <a href="#-reproduction--results">Reproduction</a> •
     <a href="#-citation">Citation</a>
   </h3>
@@ -96,7 +97,7 @@ We evaluate on four benchmark datasets. Due to repository size limits, we provid
 
 ---
 
-### 📊 Results Preview (Figures)
+## 📊 Results Preview (Figures)
 
 <details>
 <summary><b>(a) Results on complete data (no missing attributes)</b></summary>
