@@ -97,7 +97,7 @@ We evaluate on four benchmark datasets. Due to repository size limits, we provid
 
 ---
 
-## 📊 Results Preview (Figures)
+## 📊 Results Preview
 
 <details>
 <summary><b>(a) Results on complete data (no missing attributes)</b></summary>
