@@ -96,6 +96,24 @@ We evaluate on four benchmark datasets. Due to repository size limits, we provid
 
 ---
 
+### Results Preview (Figures)
+
+<details>
+<summary><b>(a) Results on complete data (no missing attributes)</b></summary>
+
+![Results on complete data](./results_no_data_complete.jpg)
+
+</details>
+
+<details>
+<summary><b>(b) Results under missing attributes</b></summary>
+
+![Results under missing attributes](./results_on_missing.jpg)
+
+</details>
+
+---
+
 ## 🚀 Reproduction & Results
 
 All experimental results are stored in the `results/` folder. We provide Jupyter Notebooks to reproduce the figures and tables presented in the WSDM '26 paper.
