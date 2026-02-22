@@ -10,19 +10,24 @@
   </p>
 
   <p>
-    <a href="https://doi.org/10.1145/3773966.3777980">
-      <img src="https://img.shields.io/badge/WSDM_'26-Paper-blue?style=flat-square&logo=acm" alt="WSDM 2026">
-    </a>
-    <a href="https://www.python.org/">
-      <img src="https://img.shields.io/badge/Made_with-Python-blue.svg?style=flat-square&logo=python&logoColor=white" alt="Made with Python">
-    </a>
-    <a href="https://pytorch.org/">
-      <img src="https://img.shields.io/badge/PyTorch-2.6-orange?style=flat-square&logo=pytorch" alt="PyTorch">
-    </a>
-     <a href="#citation">
-      <img src="https://img.shields.io/badge/Cite-BibTeX-green?style=flat-square" alt="Citation">
-    </a>
-  </p>
+  <a href="https://doi.org/10.1145/3773966.3777980">
+    <img src="https://img.shields.io/badge/WSDM_'26-Paper-blue?style=flat-square&logo=acm" alt="WSDM 2026">
+  </a>
+
+  <a href="https://dl.acm.org/doi/10.1145/3773966.3777980">
+    <img src="https://img.shields.io/badge/ACM%20DL-View%20Paper-0b5fff?style=flat-square&logo=acm&logoColor=white" alt="ACM DL">
+  </a>
+
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Made_with-Python-blue.svg?style=flat-square&logo=python&logoColor=white" alt="Made with Python">
+  </a>
+  <a href="https://pytorch.org/">
+    <img src="https://img.shields.io/badge/PyTorch-2.6-orange?style=flat-square&logo=pytorch" alt="PyTorch">
+  </a>
+  <a href="#citation">
+    <img src="https://img.shields.io/badge/Cite-BibTeX-green?style=flat-square" alt="Citation">
+  </a>
+</p>
 
   <h3>
     <a href="#-overview">Overview</a> •
