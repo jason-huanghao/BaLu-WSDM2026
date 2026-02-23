@@ -1,3 +1,6 @@
+> ⚠️ **Project moved:** https://github.com/SDM-TIB/BaLu-WSDM2026  
+> Please open Issues and Pull Requests in the SDM-TIB repository.
+
 <div align="center">
   <a href="https://econml.azurewebsites.net/">
     <img src="balu.png" alt="BaLu Logo" width="100px">
