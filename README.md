@@ -107,19 +107,17 @@ We evaluate on four benchmark datasets. Due to repository size limits, we provid
 
 ## 📊 Results Preview
 
-<details>
-<summary><b>(a) Results on complete data (no missing attributes)</b></summary>
+### (a) Results on complete data (no missing attributes)
 
-![Results on complete data](./results_no_data_complete.jpg)
+<p align="center">
+  <img src="./results_no_data_complete.jpg" width="700">
+</p>
 
-</details>
+### (b) Results under missing attributes
 
-<details>
-<summary><b>(b) Results under missing attributes</b></summary>
-
-![Results under missing attributes](./results_on_missing.jpg)
-
-</details>
+<p align="center">
+  <img src="./results_on_missing.jpg" width="700">
+</p>
 
 ---
 
